@@ -1,0 +1,330 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//HijriLive//Umm al-Qura key dates//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Islamic dates (Umm al-Qura)
+BEGIN:VEVENT
+UID:409312d26b0fd04e@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20250626
+DTEND;VALUE=DATE:20250627
+SUMMARY:Islamic New Year 1447 AH (expected)
+DESCRIPTION:1 Muharram 1447 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1db9e3e6fc85c38e@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20250705
+DTEND;VALUE=DATE:20250706
+SUMMARY:Ashura 1447 AH (expected)
+DESCRIPTION:10 Muharram 1447 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:80932f151aa0fc95@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:Start of Ramadan 1447 AH (expected)
+DESCRIPTION:1 Ramadan 1447 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7d98673d77514cd7@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:Eid al-Fitr 1447 AH (expected)
+DESCRIPTION:1 Shawwal 1447 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3653ba38a1c20870@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:Day of Arafah 1447 AH (expected)
+DESCRIPTION:9 Dhu al-Hijjah 1447 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6d74294ce1f5340a@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:Eid al-Adha 1447 AH (expected)
+DESCRIPTION:10 Dhu al-Hijjah 1447 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:30fc46417f1df457@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:Islamic New Year 1448 AH (expected)
+DESCRIPTION:1 Muharram 1448 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a98c245f7375a911@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:Ashura 1448 AH (expected)
+DESCRIPTION:10 Muharram 1448 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7aee64d61e288bad@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270209
+SUMMARY:Start of Ramadan 1448 AH (expected)
+DESCRIPTION:1 Ramadan 1448 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:375b63c85f661173@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:Eid al-Fitr 1448 AH (expected)
+DESCRIPTION:1 Shawwal 1448 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:584d544f34f4648c@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:Day of Arafah 1448 AH (expected)
+DESCRIPTION:9 Dhu al-Hijjah 1448 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6531b0d84fcbfbe6@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:Eid al-Adha 1448 AH (expected)
+DESCRIPTION:10 Dhu al-Hijjah 1448 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a079e11b19a491f7@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:Islamic New Year 1449 AH (expected)
+DESCRIPTION:1 Muharram 1449 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:40cf0be07b397b40@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Ashura 1449 AH (expected)
+DESCRIPTION:10 Muharram 1449 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d4d2329648bd869d@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:Start of Ramadan 1449 AH (expected)
+DESCRIPTION:1 Ramadan 1449 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3691589c1fef1a9b@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:Eid al-Fitr 1449 AH (expected)
+DESCRIPTION:1 Shawwal 1449 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:07bb91ea3972be38@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20280504
+DTEND;VALUE=DATE:20280505
+SUMMARY:Day of Arafah 1449 AH (expected)
+DESCRIPTION:9 Dhu al-Hijjah 1449 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1baf6af97b62e7c3@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20280505
+DTEND;VALUE=DATE:20280506
+SUMMARY:Eid al-Adha 1449 AH (expected)
+DESCRIPTION:10 Dhu al-Hijjah 1449 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d92a9dd276f1ce44@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Islamic New Year 1450 AH (expected)
+DESCRIPTION:1 Muharram 1450 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bab61147160764a5@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20280603
+DTEND;VALUE=DATE:20280604
+SUMMARY:Ashura 1450 AH (expected)
+DESCRIPTION:10 Muharram 1450 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e3c107ee4bfb4a@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20290116
+DTEND;VALUE=DATE:20290117
+SUMMARY:Start of Ramadan 1450 AH (expected)
+DESCRIPTION:1 Ramadan 1450 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:db1f05b3e6718738@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20290214
+DTEND;VALUE=DATE:20290215
+SUMMARY:Eid al-Fitr 1450 AH (expected)
+DESCRIPTION:1 Shawwal 1450 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:99dfee4ea5542fa1@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20290423
+DTEND;VALUE=DATE:20290424
+SUMMARY:Day of Arafah 1450 AH (expected)
+DESCRIPTION:9 Dhu al-Hijjah 1450 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2542db9af0935be4@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20290424
+DTEND;VALUE=DATE:20290425
+SUMMARY:Eid al-Adha 1450 AH (expected)
+DESCRIPTION:10 Dhu al-Hijjah 1450 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e972d84569d505cf@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20290514
+DTEND;VALUE=DATE:20290515
+SUMMARY:Islamic New Year 1451 AH (expected)
+DESCRIPTION:1 Muharram 1451 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:97ee636eb6be1334@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20290523
+DTEND;VALUE=DATE:20290524
+SUMMARY:Ashura 1451 AH (expected)
+DESCRIPTION:10 Muharram 1451 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:086cc168c184cc85@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20300105
+DTEND;VALUE=DATE:20300106
+SUMMARY:Start of Ramadan 1451 AH (expected)
+DESCRIPTION:1 Ramadan 1451 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0c4ecd0426d6a593@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20300204
+DTEND;VALUE=DATE:20300205
+SUMMARY:Eid al-Fitr 1451 AH (expected)
+DESCRIPTION:1 Shawwal 1451 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:356075e9e95751f6@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20300412
+DTEND;VALUE=DATE:20300413
+SUMMARY:Day of Arafah 1451 AH (expected)
+DESCRIPTION:9 Dhu al-Hijjah 1451 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:be86e750b78d374f@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20300413
+DTEND;VALUE=DATE:20300414
+SUMMARY:Eid al-Adha 1451 AH (expected)
+DESCRIPTION:10 Dhu al-Hijjah 1451 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:44b289f3df412d28@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20300504
+DTEND;VALUE=DATE:20300505
+SUMMARY:Islamic New Year 1452 AH (expected)
+DESCRIPTION:1 Muharram 1452 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7c08d736ebb25e5e@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20300513
+DTEND;VALUE=DATE:20300514
+SUMMARY:Ashura 1452 AH (expected)
+DESCRIPTION:10 Muharram 1452 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:00df0889aacf3d0b@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20301226
+DTEND;VALUE=DATE:20301227
+SUMMARY:Start of Ramadan 1452 AH (expected)
+DESCRIPTION:1 Ramadan 1452 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc19065d6b905cc0@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20310124
+DTEND;VALUE=DATE:20310125
+SUMMARY:Eid al-Fitr 1452 AH (expected)
+DESCRIPTION:1 Shawwal 1452 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:18047ae1bebd365d@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20310401
+DTEND;VALUE=DATE:20310402
+SUMMARY:Day of Arafah 1452 AH (expected)
+DESCRIPTION:9 Dhu al-Hijjah 1452 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:67d7152d527f5b24@hijrilive.com
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20310402
+DTEND;VALUE=DATE:20310403
+SUMMARY:Eid al-Adha 1452 AH (expected)
+DESCRIPTION:10 Dhu al-Hijjah 1452 AH by the Umm al-Qura calendar. The date can differ by one day where the moon sighting decides. https://hijrilive.com/en/hijri-calendar/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
