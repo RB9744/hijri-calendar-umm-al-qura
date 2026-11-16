@@ -1,0 +1,73 @@
+hijri_year,hijri_month,month_name_en,month_name_ar,gregorian_start,weekday,days
+1447,1,Muharram,محرم,2025-06-26,Thursday,30
+1447,2,Safar,صفر,2025-07-26,Saturday,29
+1447,3,Rabi I,ربيع الأول,2025-08-24,Sunday,30
+1447,4,Rabi II,ربيع الثاني,2025-09-23,Tuesday,30
+1447,5,Jumada I,جمادى الأولى,2025-10-23,Thursday,30
+1447,6,Jumada II,جمادى الآخرة,2025-11-22,Saturday,29
+1447,7,Rajab,رجب,2025-12-21,Sunday,30
+1447,8,Sha'ban,شعبان,2026-01-20,Tuesday,29
+1447,9,Ramadan,رمضان,2026-02-18,Wednesday,30
+1447,10,Shawwal,شوال,2026-03-20,Friday,29
+1447,11,Dhu al-Qadah,ذو القعدة,2026-04-18,Saturday,30
+1447,12,Dhu al-Hijjah,ذو الحجة,2026-05-18,Monday,29
+1448,1,Muharram,محرم,2026-06-16,Tuesday,29
+1448,2,Safar,صفر,2026-07-15,Wednesday,30
+1448,3,Rabi I,ربيع الأول,2026-08-14,Friday,29
+1448,4,Rabi II,ربيع الثاني,2026-09-12,Saturday,30
+1448,5,Jumada I,جمادى الأولى,2026-10-12,Monday,30
+1448,6,Jumada II,جمادى الآخرة,2026-11-11,Wednesday,29
+1448,7,Rajab,رجب,2026-12-10,Thursday,30
+1448,8,Sha'ban,شعبان,2027-01-09,Saturday,30
+1448,9,Ramadan,رمضان,2027-02-08,Monday,29
+1448,10,Shawwal,شوال,2027-03-09,Tuesday,30
+1448,11,Dhu al-Qadah,ذو القعدة,2027-04-08,Thursday,29
+1448,12,Dhu al-Hijjah,ذو الحجة,2027-05-07,Friday,30
+1449,1,Muharram,محرم,2027-06-06,Sunday,29
+1449,2,Safar,صفر,2027-07-05,Monday,29
+1449,3,Rabi I,ربيع الأول,2027-08-03,Tuesday,30
+1449,4,Rabi II,ربيع الثاني,2027-09-02,Thursday,29
+1449,5,Jumada I,جمادى الأولى,2027-10-01,Friday,30
+1449,6,Jumada II,جمادى الآخرة,2027-10-31,Sunday,29
+1449,7,Rajab,رجب,2027-11-29,Monday,30
+1449,8,Sha'ban,شعبان,2027-12-29,Wednesday,30
+1449,9,Ramadan,رمضان,2028-01-28,Friday,29
+1449,10,Shawwal,شوال,2028-02-26,Saturday,30
+1449,11,Dhu al-Qadah,ذو القعدة,2028-03-27,Monday,30
+1449,12,Dhu al-Hijjah,ذو الحجة,2028-04-26,Wednesday,29
+1450,1,Muharram,محرم,2028-05-25,Thursday,30
+1450,2,Safar,صفر,2028-06-24,Saturday,29
+1450,3,Rabi I,ربيع الأول,2028-07-23,Sunday,30
+1450,4,Rabi II,ربيع الثاني,2028-08-22,Tuesday,29
+1450,5,Jumada I,جمادى الأولى,2028-09-20,Wednesday,29
+1450,6,Jumada II,جمادى الآخرة,2028-10-19,Thursday,30
+1450,7,Rajab,رجب,2028-11-18,Saturday,29
+1450,8,Sha'ban,شعبان,2028-12-17,Sunday,30
+1450,9,Ramadan,رمضان,2029-01-16,Tuesday,29
+1450,10,Shawwal,شوال,2029-02-14,Wednesday,30
+1450,11,Dhu al-Qadah,ذو القعدة,2029-03-16,Friday,30
+1450,12,Dhu al-Hijjah,ذو الحجة,2029-04-15,Sunday,29
+1451,1,Muharram,محرم,2029-05-14,Monday,30
+1451,2,Safar,صفر,2029-06-13,Wednesday,30
+1451,3,Rabi I,ربيع الأول,2029-07-13,Friday,30
+1451,4,Rabi II,ربيع الثاني,2029-08-12,Sunday,29
+1451,5,Jumada I,جمادى الأولى,2029-09-10,Monday,29
+1451,6,Jumada II,جمادى الآخرة,2029-10-09,Tuesday,30
+1451,7,Rajab,رجب,2029-11-08,Thursday,29
+1451,8,Sha'ban,شعبان,2029-12-07,Friday,29
+1451,9,Ramadan,رمضان,2030-01-05,Saturday,30
+1451,10,Shawwal,شوال,2030-02-04,Monday,30
+1451,11,Dhu al-Qadah,ذو القعدة,2030-03-06,Wednesday,29
+1451,12,Dhu al-Hijjah,ذو الحجة,2030-04-04,Thursday,30
+1452,1,Muharram,محرم,2030-05-04,Saturday,30
+1452,2,Safar,صفر,2030-06-03,Monday,29
+1452,3,Rabi I,ربيع الأول,2030-07-02,Tuesday,30
+1452,4,Rabi II,ربيع الثاني,2030-08-01,Thursday,30
+1452,5,Jumada I,جمادى الأولى,2030-08-31,Saturday,29
+1452,6,Jumada II,جمادى الآخرة,2030-09-29,Sunday,29
+1452,7,Rajab,رجب,2030-10-28,Monday,30
+1452,8,Sha'ban,شعبان,2030-11-27,Wednesday,29
+1452,9,Ramadan,رمضان,2030-12-26,Thursday,29
+1452,10,Shawwal,شوال,2031-01-24,Friday,30
+1452,11,Dhu al-Qadah,ذو القعدة,2031-02-23,Sunday,29
+1452,12,Dhu al-Hijjah,ذو الحجة,2031-03-24,Monday,30
