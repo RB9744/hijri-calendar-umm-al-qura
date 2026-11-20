@@ -61,6 +61,10 @@ const ramadan1448 = cal.months.find(m => m.hijri_year === 1448 && m.hijri_month 
 - A Hijri day begins at sunset. The night of 1 Ramadan, for example, is the evening before the Gregorian date shown here.
 - Month names in English are transliterations. Other spellings are just as common.
 
+## Related data
+
+A companion dataset covers the months of 1446 to 1450 AH (July 2024 to May 2029) and has a DOI on Zenodo: [RB9744/umm-al-qura-hijri-calendar](https://github.com/RB9744/umm-al-qura-hijri-calendar). The months the two share (1447 to 1450) are the same in both.
+
 ## Licence and credit
 
 [CC BY 4.0](LICENSE). Please credit: "Hijri calendar data, HijriLive (https://hijrilive.com), from the Umm al-Qura calendar".
